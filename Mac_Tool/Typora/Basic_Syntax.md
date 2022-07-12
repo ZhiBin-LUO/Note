@@ -1,4 +1,4 @@
-#### Typora 使用
+#### Typora 基础语法使用
 
 
 
@@ -149,4 +149,6 @@ __字体__ 或者 **字体**
 [参考一](https://zhuanlan.zhihu.com/p/293557841)
 [参考二](https://sspai.com/post/54912)
 [参考三](https://sspai.com/post/36610)
+
+https://www.markdownguide.org/basic-syntax/
 
